@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scene Prompt Builder"
+  short_description: "Refine scene content into Chinese and English AI prompts without changing shot direction."
+  default_prompt: "Use $scene-prompt-builder to optimize this scene idea into a complete Chinese and English AI prompt, focusing only on scene content and avoiding shot size, camera movement, transitions, duration, and edit rhythm."
+policy:
+  allow_implicit_invocation: true

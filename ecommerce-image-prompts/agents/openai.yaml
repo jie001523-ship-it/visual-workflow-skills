@@ -1,0 +1,3 @@
+display_name: 电商主图 Prompt 助手
+short_description: 将产品图、卖点和参考风格转成可控的一套电商生图 prompt。
+default_prompt: 帮我基于产品图和卖点，按流程生成电商主图与系列图 prompt。
